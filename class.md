@@ -1,3 +1,3 @@
 Dheearj Patil
 Mumbai
-Meta Front-End Development
+Meta Front-End Development PC
